@@ -32,7 +32,7 @@ p {
 
 #  *Target audience*
 
-</p>People create vlogs and some have attracted a large number of followers, vloggers upload videos about their personal life or reviews of products they use, therefore increasing browsing traffic from followers and other viewers. Some viewers are targeted to people who desire to travel since people don’t know what a country is like and some vlogs show the culture and tour the country.</p>
+People create vlogs and some have attracted a large number of followers, vloggers upload videos about their personal life or reviews of products they use, therefore increasing browsing traffic from followers and other viewers. Some viewers are targeted to people who desire to travel since people don’t know what a country is like and some vlogs show the culture and tour the country.
 
 
 
