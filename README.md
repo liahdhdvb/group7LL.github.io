@@ -44,7 +44,6 @@ p {
 A survey conducted during the fourth quarter of 2021 found that more than 38 percent of female internet users aged between 16 and 24 years watched vlogs. Overall, women were more likely to watch vlogs worldwide than men.
 
 
-
 # *Needs* 
   
 <p align="center">To produce this content/video we need the tools for making this stuff, like a camera, mic, a person in front of the camera, cameraman/woman, a video editor and many more. For the Skills to make this happen we need the confidence to speak on a camera, a creative mind to make this content, the skill of editing videos and thumbnails, a contact person in Sitio Bebe, etc.
