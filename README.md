@@ -27,7 +27,7 @@ p {
 
 
 # *Chosen category*
-<p align="center">## *Vlogging content*
+<h2>Vlogging content</h2>
 
 
 
