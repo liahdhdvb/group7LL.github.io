@@ -13,19 +13,20 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+  color: white;
 }
 </style>
 </head>
 <body>
 
 <h1>Our Website</h1>
-<p>Group7 B04-09-S1-1.</p>
+<h1>Group7 B04-09-S1-1.</h1>
 
 </body>
 </html>
 
 # *Chosen category*
-## *Vlogging content*
+# *Vlogging content*
 
 
 
