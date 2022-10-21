@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-color: Dark red;
+  background-color: Maroon;
 }
 
 h1 {
