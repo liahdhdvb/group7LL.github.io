@@ -5,6 +5,10 @@ body {
   background-color: Maroon;
 }
 
+h2 {
+  color: white;
+  text-align: center;
+
 h1 {
   color: white;
   text-align: center;
