@@ -24,7 +24,7 @@ p {
 </body>
 </html>
 
-# a. Chosen category
+# a. *Chosen category*
 ## *Vlogging content*
 
 ## B. *Target audience*
