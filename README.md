@@ -5,9 +5,6 @@ body {
   background-color: Maroon;
 }
 
-h2 {
-  color: white;
-  text-align: center;
 
 h1 {
   color: white;
@@ -31,7 +28,7 @@ p {
 
 
 # *Chosen category*
-<h2>Vlogging content</h2>
+# *Vlogging content*
 
 
 
