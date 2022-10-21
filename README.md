@@ -27,9 +27,6 @@ p {
 # a. *Chosen category*
 ## *Vlogging content*
 
-body {
-  background-color: Black;
-}
 
 
 ## B. *Target audience*
